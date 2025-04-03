@@ -84,51 +84,23 @@
   </div>
 </div>
 
-
-
-
-<!-- Motto -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=用心传递技术。&author=Yaosir"  />
-
-
-
 <!-- Alien Emoji -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
 </div>
 
 
-
-
 <!-- Skills Emoji -->
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
-
-
-
-
 
 
 <!-- Stats Words -->
 ![Metrics](github-metrics.svg)
 
 
-
-
-
 <!-- Stats Card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
 
-
-
-<!-- Blogs List -->
-# :orange_book: Latest Blog Posts :cactus:
-<!-- BLOG-POST-LIST:START -->
-- [一文详解MCP技术——MCP是什么，为什么重要 ？](https://blog.csdn.net/qq_60865111/article/details/146959240)
-- [一文详解Softmax与Sigmoid函数](https://blog.csdn.net/qq_60865111/article/details/146462079)
-- [如何快速评估模型改进后的整体性能效果](https://blog.csdn.net/qq_60865111/article/details/146263850)
-- [YOLOv12源码及模型权重——免费下载](https://blog.csdn.net/qq_60865111/article/details/145749175)
-- [YOLOv12训练自己的数据集——利用Google Colab环境和Roboflow工具](https://blog.csdn.net/qq_60865111/article/details/145747523)
-<!-- BLOG-POST-LIST:END -->
 
 
 <!-- Award List -->
