@@ -10,9 +10,6 @@
   <!-- for beauty -->
   <div>&nbsp;</div>
 
-
-
-
 <!-- Dynamic Emojis -->
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
@@ -36,9 +33,4 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
 
 
-<!--
-**BreCaspian/BreCaspian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BreCaspian)](https://github.com/anuraghazra/github-readme-stats)
 
