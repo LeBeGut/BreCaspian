@@ -84,17 +84,6 @@
   </div>
 </div>
 
-<!-- Alien Emoji -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="250" height="250" />
-</div>
-
-
-<!-- Skills Emoji -->
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
-
-
-
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
@@ -147,23 +136,6 @@ profile-3d-contrib/profile-night-rainbow.svg
 profile-3d-contrib/profile-gitblock.svg
 样式：Git块主题
 特点：以GitHub风格的方块形式展示贡献，静态展示。
-
-
-
-![](https://stats.justsong.cn/api/leetcode?username=Brecaspian&cn=true)  leetcode
-
-
-
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 小徽章
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,tensorflow,raspberrypi,rust,stackoverflow,visualstudio,vscode,pycharm,opencv,matlab,linux,gmail,github,git,gcp,docker，anaconda&theme=dark&perline=6" />
-  </a>
-</p>
 
 
 
