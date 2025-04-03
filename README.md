@@ -25,12 +25,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dove.png" alt="Dove" width="50" height="50" />
 </div>
 
-
 <!-- Welcome words -->
 <h1 style="color: #FFA500;">Welcome to LeBeGut's GitHub ! 🍀</h1>
 
 <!-- World Peaceful words -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+World+Remains+Peaceful+Forever+!)
-
 
 
