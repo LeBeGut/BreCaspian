@@ -94,13 +94,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,rust,matlab,linux,github,pytorch,tensorflow,opencv,git,stackoverflow,visualstudio,vscode,pycharm,anaconda,raspberrypi,docker,vim,gmail,gcp&theme=dark&perline=7)](https://skillicons.dev)
 
 
-<!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BreCaspian&show_icons=true&theme=radical)
-
-
-
-<!-- Award List -->
-![trophy](https://github-profile-trophy.vercel.app/?username=BreCaspian&row=1&column=5&theme=juicyfresh&no-frame=true&no-bg=true)
 
 
 
