@@ -15,7 +15,7 @@
 
   <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Accordion/3D/accordion_3d.png" alt="Waving Hand" width="50" height="50" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDQ3bWpmaXkydHpsMXk5bmF6bTExZGR4YnlsMm13bnhjMDVnNDA0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sl7OlpTiHi9pPPZKp4/giphy.gif" alt="Waving Hand" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA3cDMyenY4OWpkZHU5OGJ4anJpdGJkZG02eWlmcGVhdHVzY215aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIWdDlz1s5a7k1o0w0/giphy.gif" alt="Glowing Star" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="50" height="50" />  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" />
