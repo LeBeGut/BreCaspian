@@ -12,6 +12,8 @@
 
 <!-- Dynamic Emojis -->
 <div style="display: flex; justify-content: center; align-items: center;">
+
+  <img src="https://github.com/microsoft/fluentui-emoji/blob/main/assets/Accordion/3D/accordion_3d.png" alt="Waving Hand" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="50" height="50" />
